@@ -105,7 +105,6 @@ flowchart TB
 ```
 # 四、使用案例
 ```mermaid
-
 flowchart TD
     %% 角色區
     user([🧍 用戶<br>User]):::actor
